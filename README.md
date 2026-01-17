@@ -1,4 +1,4 @@
-# XAI - LIME: Detecção de Fake News em Mensagens de WhatsApp 📱🔍
+# XAI - LIME: Detecção de Fake News em Mensagens de WhatsApp 
 
 Este projeto aplica técnicas de **Inteligência Artificial Explicável (XAI)**, especificamente **LIME (Local Interpretable Model-agnostic Explanations)**, para analisar e classificar mensagens de Fake News do WhatsApp em Português.
 
