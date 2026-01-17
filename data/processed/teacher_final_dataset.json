@@ -1,0 +1,227 @@
+[
+  {
+    "frase_base": "O homem está montando o animal",
+    "codigo": "negation",
+    "frase_gerada": "O homem não está montando o animal."
+  },
+  {
+    "frase_base": "O homem está montando o animal",
+    "codigo": "substitution",
+    "frase_gerada": "O menino está montando o animal."
+  },
+  {
+    "frase_base": "O homem está montando o animal",
+    "codigo": "insertion",
+    "frase_gerada": "O homem está montando o animal rapidamente."
+  },
+  {
+    "frase_base": "Dois gatos estão brincando com uma bola vermelha",
+    "codigo": "negation",
+    "frase_gerada": "Dois gatos não estão brincando com uma bola vermelha."
+  },
+  {
+    "frase_base": "Dois gatos estão brincando com uma bola vermelha",
+    "codigo": "substitution",
+    "frase_gerada": "Dois cães estão brincando com uma bola vermelha."
+  },
+  {
+    "frase_base": "Dois gatos estão brincando com uma bola vermelha",
+    "codigo": "insertion",
+    "frase_gerada": "Dois gatos estão brincando alegremente com uma bola vermelha."
+  },
+  {
+    "frase_base": "Uma mulher está usando óculos escuros de tamanho grande e está segurando jornais nas duas mãos",
+    "codigo": "negation",
+    "frase_gerada": "Uma mulher não está usando óculos escuros de tamanho grande e está segurando jornais nas duas mãos."
+  },
+  {
+    "frase_base": "Uma mulher está usando óculos escuros de tamanho grande e está segurando jornais nas duas mãos",
+    "codigo": "substitution",
+    "frase_gerada": "Uma mulher está usando óculos escuros de tamanho grande e está segurando livros nas duas mãos."
+  },
+  {
+    "frase_base": "Uma mulher está usando óculos escuros de tamanho grande e está segurando jornais nas duas mãos",
+    "codigo": "quantifier",
+    "frase_gerada": "Duas mulheres estão usando óculos escuros de tamanho grande e estão segurando jornais nas duas mãos."
+  },
+  {
+    "frase_base": "Um pato grande está voando acima de um riacho rochoso",
+    "codigo": "negation",
+    "frase_gerada": "Um pato grande não está voando acima de um riacho rochoso"
+  },
+  {
+    "frase_base": "Um pato grande está voando acima de um riacho rochoso",
+    "codigo": "substitution",
+    "frase_gerada": "Um ganso grande está voando acima de um riacho rochoso"
+  },
+  {
+    "frase_base": "Um pato grande está voando acima de um riacho rochoso",
+    "codigo": "quantifier",
+    "frase_gerada": "Dois patos grandes estão voando acima de um riacho rochoso"
+  },
+  {
+    "frase_base": "O filhote de cachorro está brincando com um recipiente de plástico",
+    "codigo": "negation",
+    "frase_gerada": "O filhote de cachorro não está brincando com um recipiente de plástico"
+  },
+  {
+    "frase_base": "O filhote de cachorro está brincando com um recipiente de plástico",
+    "codigo": "substitution",
+    "frase_gerada": "O gatinho está brincando com um recipiente de plástico"
+  },
+  {
+    "frase_base": "O filhote de cachorro está brincando com um recipiente de plástico",
+    "codigo": "insertion",
+    "frase_gerada": "O filhote de cachorro está brincando alegremente com um recipiente de plástico"
+  },
+  {
+    "frase_base": "Um cavalo está cavalgando sobre um homem",
+    "codigo": "negation",
+    "frase_gerada": "Um cavalo não está cavalgando sobre um homem"
+  },
+  {
+    "frase_base": "Um cavalo está cavalgando sobre um homem",
+    "codigo": "substitution",
+    "frase_gerada": "Um elefante está cavalgando sobre um homem"
+  },
+  {
+    "frase_base": "Um cavalo está cavalgando sobre um homem",
+    "codigo": "insertion",
+    "frase_gerada": "Um cavalo está cavalgando perigosamente sobre um homem"
+  },
+  {
+    "frase_base": "Um animal preto está pulando de uma doca para a água",
+    "codigo": "negation",
+    "frase_gerada": "Um animal preto não está pulando de uma doca para a água"
+  },
+  {
+    "frase_base": "Um animal preto está pulando de uma doca para a água",
+    "codigo": "substitution",
+    "frase_gerada": "Um animal preto está pulando de uma ponte para a água"
+  },
+  {
+    "frase_base": "Um animal preto está pulando de uma doca para a água",
+    "codigo": "insertion",
+    "frase_gerada": "Um animal preto corajosamente está pulando de uma doca para a água"
+  },
+  {
+    "frase_base": "Uma criança está espirrando água no oceano",
+    "codigo": "negation",
+    "frase_gerada": "Uma criança não está espirrando água no oceano"
+  },
+  {
+    "frase_base": "Uma criança está espirrando água no oceano",
+    "codigo": "substitution",
+    "frase_gerada": "Um adolescente está espirrando água no oceano"
+  },
+  {
+    "frase_base": "Uma criança está espirrando água no oceano",
+    "codigo": "insertion",
+    "frase_gerada": "Uma criança está furiosamente espirrando água no oceano"
+  },
+  {
+    "frase_base": "O homem está surgindo de um pântano",
+    "codigo": "negation",
+    "frase_gerada": "O homem não está surgindo de um pântano."
+  },
+  {
+    "frase_base": "O homem está surgindo de um pântano",
+    "codigo": "substitution",
+    "frase_gerada": "A mulher está surgindo de um pântano."
+  },
+  {
+    "frase_base": "O homem está surgindo de um pântano",
+    "codigo": "insertion",
+    "frase_gerada": "O homem está surgindo misteriosamente de um pântano."
+  },
+  {
+    "frase_base": "Uma mulher está cortando as batatas",
+    "codigo": "negation",
+    "frase_gerada": "Uma mulher não está cortando as batatas."
+  },
+  {
+    "frase_base": "Uma mulher está cortando as batatas",
+    "codigo": "substitution",
+    "frase_gerada": "Uma mulher está cortando as cenouras."
+  },
+  {
+    "frase_base": "Uma mulher está cortando as batatas",
+    "codigo": "insertion",
+    "frase_gerada": "Uma mulher está cortando as batatas cuidadosamente."
+  },
+  {
+    "frase_base": "Um homem está tirando uma foto de um desenho",
+    "codigo": "negation",
+    "frase_gerada": "Um homem não está tirando uma foto de um desenho"
+  },
+  {
+    "frase_base": "Um homem está tirando uma foto de um desenho",
+    "codigo": "substitution",
+    "frase_gerada": "Uma mulher está tirando uma foto de um desenho"
+  },
+  {
+    "frase_base": "Um homem está tirando uma foto de um desenho",
+    "codigo": "insertion",
+    "frase_gerada": "Um homem está tirando uma foto de um desenho antigo"
+  },
+  {
+    "frase_base": "Uma menina está fazendo uma flauta que não deve ser tocada",
+    "codigo": "negation",
+    "frase_gerada": "Uma menina está fazendo uma flauta que deve ser tocada."
+  },
+  {
+    "frase_base": "Uma menina está fazendo uma flauta que não deve ser tocada",
+    "codigo": "substitution",
+    "frase_gerada": "Uma menina está fazendo um violino que não deve ser tocado."
+  },
+  {
+    "frase_base": "Uma menina está fazendo uma flauta que não deve ser tocada",
+    "codigo": "quantifier",
+    "frase_gerada": "Muitas meninas estão fazendo uma flauta que não deve ser tocada."
+  },
+  {
+    "frase_base": "Um cachorro está correndo em direção a um brinquedo",
+    "codigo": "negation",
+    "frase_gerada": "Um cachorro não está correndo em direção a um brinquedo."
+  },
+  {
+    "frase_base": "Um cachorro está correndo em direção a um brinquedo",
+    "codigo": "substitution",
+    "frase_gerada": "Um gato está correndo em direção a um brinquedo."
+  },
+  {
+    "frase_base": "Um cachorro está correndo em direção a um brinquedo",
+    "codigo": "insertion",
+    "frase_gerada": "Um cachorro está correndo rapidamente em direção a um brinquedo."
+  },
+  {
+    "frase_base": "Alguém está mexendo a pimenta em uma panela",
+    "codigo": "negation",
+    "frase_gerada": "Ninguém está mexendo a pimenta em uma panela."
+  },
+  {
+    "frase_base": "Alguém está mexendo a pimenta em uma panela",
+    "codigo": "substitution",
+    "frase_gerada": "Alguém está mexendo o arroz em uma panela."
+  },
+  {
+    "frase_base": "Alguém está mexendo a pimenta em uma panela",
+    "codigo": "insertion",
+    "frase_gerada": "Alguém está mexendo rapidamente a pimenta em uma panela."
+  },
+  {
+    "frase_base": "Uma pessoa está andando em uma motocicleta velha",
+    "codigo": "negation",
+    "frase_gerada": "Uma pessoa não está andando em uma motocicleta velha."
+  },
+  {
+    "frase_base": "Uma pessoa está andando em uma motocicleta velha",
+    "codigo": "substitution",
+    "frase_gerada": "Uma pessoa está andando em um carro velho."
+  },
+  {
+    "frase_base": "Uma pessoa está andando em uma motocicleta velha",
+    "codigo": "insertion",
+    "frase_gerada": "Uma pessoa está andando rapidamente em uma motocicleta velha."
+  }
+]

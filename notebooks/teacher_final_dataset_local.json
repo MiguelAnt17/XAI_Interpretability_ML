@@ -1,0 +1,1597 @@
+[
+  {
+    "frase_base": "Uma mulher está passando batom",
+    "codigo": "negation",
+    "frase_gerada": "Não há uma mulher passando batom"
+  },
+  {
+    "frase_base": "Uma mulher está passando batom",
+    "codigo": "substitution",
+    "frase_gerada": "Um homem está passando batom"
+  },
+  {
+    "frase_base": "Uma mulher está passando batom",
+    "codigo": "insertion",
+    "frase_gerada": "Uma mulher está passando muito bem batom"
+  },
+  {
+    "frase_base": "Um cachorro, que é pequeno, está perseguindo uma vaca marrom grande",
+    "codigo": "negation",
+    "frase_gerada": "Nem um cachorro, que nunca é pequeno, está parando de perseguir a vaca marrom grande"
+  },
+  {
+    "frase_base": "Um cachorro, que é pequeno, está perseguindo uma vaca marrom grande",
+    "codigo": "substitution",
+    "frase_gerada": "Um gato, que é grande, está perseguindo uma vaca cinzenta grande"
+  },
+  {
+    "frase_base": "Um cachorro, que é pequeno, está perseguindo uma vaca marrom grande",
+    "codigo": "insertion",
+    "frase_gerada": "Um cachorro, que é muito pequeno e veloz, está perseguindo com fúria uma vaca marrom grande"
+  },
+  {
+    "frase_base": "Uma pessoa está cortando uma cebola em pedaços",
+    "codigo": "negation",
+    "frase_gerada": "Ninguém não está cortando uma cebola em pedaços"
+  },
+  {
+    "frase_base": "Uma pessoa está cortando uma cebola em pedaços",
+    "codigo": "substitution",
+    "frase_gerada": "Alguém está cortando um tomate em pedaços"
+  },
+  {
+    "frase_base": "Uma pessoa está cortando uma cebola em pedaços",
+    "codigo": "insertion",
+    "frase_gerada": "A pessoa está cortando a cebola muito rapidamente em pedaços"
+  },
+  {
+    "frase_base": "O gato está tocando teclados",
+    "codigo": "negation",
+    "frase_gerada": "O gato não está tocando teclados"
+  },
+  {
+    "frase_base": "O gato está tocando teclados",
+    "codigo": "substitution",
+    "frase_gerada": "O músico está tocando teclados"
+  },
+  {
+    "frase_base": "O gato está tocando teclados",
+    "codigo": "insertion",
+    "frase_gerada": "O gato está tocando teclados lentamente"
+  },
+  {
+    "frase_base": "O cachorro, que é preto e branco, está correndo e uma pessoa está parada atrás dele",
+    "codigo": "negation",
+    "frase_gerada": "Não há um cão preto e branco correndo e uma pessoa não está parada atrás dele"
+  },
+  {
+    "frase_base": "O cachorro, que é preto e branco, está correndo e uma pessoa está parada atrás dele",
+    "codigo": "substitution",
+    "frase_gerada": "A gata, que é cinzenta e amarela, está saltando e um homem está sentado à frente dela"
+  },
+  {
+    "frase_base": "O cachorro, que é preto e branco, está correndo e uma pessoa está parada atrás dele",
+    "codigo": "insertion",
+    "frase_gerada": "O cão, que é preto e branco, está correndo rapidamente e uma pessoa está parada lentamente atrás dele"
+  },
+  {
+    "frase_base": "Uma menina está praticando o piano",
+    "codigo": "negation",
+    "frase_gerada": "Ninguém não está mais praticando o piano"
+  },
+  {
+    "frase_base": "Uma menina está praticando o piano",
+    "codigo": "substitution",
+    "frase_gerada": "Um rapaz está praticando o violão"
+  },
+  {
+    "frase_base": "Uma menina está praticando o piano",
+    "codigo": "insertion",
+    "frase_gerada": "Uma menina está praticando o piano de forma magistral"
+  },
+  {
+    "frase_base": "Um homem está andando de bicicleta",
+    "codigo": "negation",
+    "frase_gerada": "Não é um homem que está andando de bicicleta"
+  },
+  {
+    "frase_base": "Um homem está andando de bicicleta",
+    "codigo": "substitution",
+    "frase_gerada": "Uma mulher está andando de skate"
+  },
+  {
+    "frase_base": "Um homem está andando de bicicleta",
+    "codigo": "insertion",
+    "frase_gerada": "Um homem está andando de bicicleta velocemente"
+  },
+  {
+    "frase_base": "Um menino está jogando um jogo com blocos de madeira",
+    "codigo": "negation",
+    "frase_gerada": "Não há um menino jogando um jogo com blocos de madeira"
+  },
+  {
+    "frase_base": "Um menino está jogando um jogo com blocos de madeira",
+    "codigo": "substitution",
+    "frase_gerada": "Uma menina está jogando um jogo com cubos de plástico"
+  },
+  {
+    "frase_base": "Um menino está jogando um jogo com blocos de madeira",
+    "codigo": "insertion",
+    "frase_gerada": "Um menino muito entusiasmado está jogando um jogo divertido com blocos de madeira"
+  },
+  {
+    "codigo": "negation",
+    "frase_gerada": "O óleo não está sendo mexido por um homem"
+  },
+  {
+    "codigo": "substitution",
+    "frase_gerada": "A água está sendo mexida por uma mulher"
+  },
+  {
+    "codigo": "insertion",
+    "frase_gerada": "O óleo está sendo cuidadosamente mexido por um homem experiente"
+  },
+  {
+    "frase_base": "Uma menina da Ásia, em frente a uma janela feita de tijolos, parece surpresa",
+    "codigo": "negation",
+    "frase_gerada": "Nunca uma menina da Ásia, em frente a uma janela feita de tijolos, parece não surpresa"
+  },
+  {
+    "frase_base": "Uma menina da Ásia, em frente a uma janela feita de tijolos, parece surpresa",
+    "codigo": "substitution",
+    "frase_gerada": "Um rapaz da Europa, em frente a uma porta feita de vidro, parece chocado"
+  },
+  {
+    "frase_base": "Uma menina da Ásia, em frente a uma janela feita de tijolos, parece surpresa",
+    "codigo": "insertion",
+    "frase_gerada": "Uma menina da Ásia, com um sorriso brilhante, em frente a uma janela feita de tijolos, parece extremamente surpresa"
+  },
+  {
+    "frase_base": "Um cachorro está correndo no chão",
+    "codigo": "negation",
+    "frase_gerada": "O cachorro não está correndo no chão"
+  },
+  {
+    "frase_base": "Um cachorro está correndo no chão",
+    "codigo": "substitution",
+    "frase_gerada": "Uma rata está correndo no chão"
+  },
+  {
+    "frase_base": "Um cachorro está correndo no chão",
+    "codigo": "insertion",
+    "frase_gerada": "Um cachorro cansado está correndo rapidamente no chão"
+  },
+  {
+    "frase_base": "Alguém está desmontando um piano",
+    "codigo": "negation",
+    "frase_gerada": "Ninguém não está desmontando um piano"
+  },
+  {
+    "frase_base": "Alguém está desmontando um piano",
+    "codigo": "substitution",
+    "frase_gerada": "Alguém está desmontando uma guitarra"
+  },
+  {
+    "frase_base": "Alguém está desmontando um piano",
+    "codigo": "insertion",
+    "frase_gerada": "Alguém está lentamente desmontando um piano"
+  },
+  {
+    "frase_base": "Ninguém está em uma moto e está de pé no assento",
+    "codigo": "negation",
+    "frase_gerada": "Ninguém não está em uma moto e não está de pé no assento"
+  },
+  {
+    "frase_base": "Ninguém está em uma moto e está de pé no assento",
+    "codigo": "substitution",
+    "frase_gerada": "Alguém está em uma bicicleta e está sentado no assento"
+  },
+  {
+    "frase_base": "Ninguém está em uma moto e está de pé no assento",
+    "codigo": "insertion",
+    "frase_gerada": "Ninguém está em uma moto veloz e está de pé no assento"
+  },
+  {
+    "frase_base": "Não tem ninguém na costa",
+    "codigo": "negation",
+    "frase_gerada": "Tem alguém na costa"
+  },
+  {
+    "frase_base": "Não tem ninguém na costa",
+    "codigo": "substitution",
+    "frase_gerada": "A gente não tem ninguém na praia"
+  },
+  {
+    "frase_base": "Não tem ninguém na costa",
+    "codigo": "insertion",
+    "frase_gerada": "Não há ninguém mesmo na costa"
+  },
+  {
+    "frase_base": "Uma pessoa está estupidamente jogando um gato no teto",
+    "codigo": "negation",
+    "frase_gerada": "A frase não é jogada estupidamente por uma pessoa"
+  },
+  {
+    "frase_base": "Uma pessoa está estupidamente jogando um gato no teto",
+    "codigo": "substitution",
+    "frase_gerada": "Um homem está estupidamente jogando um cão no telhado"
+  },
+  {
+    "frase_base": "Uma pessoa está estupidamente jogando um gato no teto",
+    "codigo": "insertion",
+    "frase_gerada": "Uma pessoa está estupidamente e com muita habilidade jogando um gato no teto"
+  },
+  {
+    "frase_base": "Um limão está sendo espremido por uma mulher",
+    "codigo": "negation",
+    "frase_gerada": "O limão não está sendo espremido por uma mulher"
+  },
+  {
+    "frase_base": "Um limão está being squeezed by a woman",
+    "codigo": "substitution",
+    "frase_gerada": "A lemon is being squeezed by a man"
+  },
+  {
+    "frase_base": "Um limão está sendo espremido por uma mulher",
+    "codigo": "insertion",
+    "frase_gerada": "Um limão fresco e saboroso está sendo espremido por uma mulher"
+  },
+  {
+    "frase_base": "Dois cachorros castanhos estão lutando por um brinquedo vermelho e estão brincando na grama",
+    "codigo": "negation",
+    "frase_gerada": "Nenhum cachorro está lutando por um brinquedo vermelho e estão não brincando na grama"
+  },
+  {
+    "frase_base": "Dois cachorros castanhos estão lutando por um brinquedo vermelho e estão brincando na grama",
+    "codigo": "substitution",
+    "frase_gerada": "Três gatos estão lutando por um boneco azul e estão brincando no jardim"
+  },
+  {
+    "frase_base": "Dois cachorros castanhos estão lutando por um brinquedo vermelho e estão brincando na grama",
+    "codigo": "insertion",
+    "frase_gerada": "Dois cachorros castanhos selvagens estão lutando por um brinquedo vermelho e estão brincando agitadamente na grama"
+  },
+  {
+    "frase_base": "Um menino está alegremente tocando um piano",
+    "codigo": "negation",
+    "frase_gerada": "O menino não está alegremente tocando um piano"
+  },
+  {
+    "frase_base": "Um menino está alegremente tocando um piano",
+    "codigo": "substitution",
+    "frase_gerada": "Uma garota está alegremente tocando uma guitarra"
+  },
+  {
+    "frase_base": "Um menino está alegremente tocando um piano",
+    "codigo": "insertion",
+    "frase_gerada": "Um menino está alegremente e habilidosamente tocando um piano"
+  },
+  {
+    "codigo": "negation",
+    "frase_gerada": "Não há ninguém dançando no telhado"
+  },
+  {
+    "codigo": "substitution",
+    "frase_gerada": "Uma criança está dançando no telhado"
+  },
+  {
+    "codigo": "insertion",
+    "frase_gerada": "Uma pessoa muito animada está dançando no telhado"
+  },
+  {
+    "codigo": "negation",
+    "frase_gerada": "A frase não é o jogador de futebol de campo que está chutando a bola entre as pernas de alguém"
+  },
+  {
+    "codigo": "substitution",
+    "frase_gerada": "O ator está chutando a bola entre as pernas de alguém"
+  },
+  {
+    "codigo": "insertion",
+    "frase_gerada": "O jogador de futebol de campo habilidoso está chutando a bola rapidamente entre as pernas de alguém"
+  },
+  {
+    "frase_base": "Uma mulher está usando peças de fantasia e tinta e está andando de bicicleta em uma rua movimentada",
+    "codigo": "negation",
+    "frase_gerada": "A frase não está usando peças de fantasia e tinta e não está andando de bicicleta em uma rua movimentada"
+  },
+  {
+    "frase_base": "Uma mulher está usando peças de fantasia e tinta e está andando de bicicleta em uma rua movimentada",
+    "codigo": "substitution",
+    "frase_gerada": "Uma homem está usando peças de fantasia e tinta e está andando de skate em uma avenida calma"
+  },
+  {
+    "frase_base": "Uma mulher está usando peças de fantasia e tinta e está andando de bicicleta em uma rua movimentada",
+    "codigo": "insertion",
+    "frase_gerada": "Uma mulher está usando peças de fantasia coloridas e tinta fluorescente e está pedalando de bicicleta com um sorriso na uma rua movimentada"
+  },
+  {
+    "frase_base": "Uma pequena menina com cabelos loiros está sorrindo e sentada em um balanço",
+    "codigo": "negation",
+    "frase_gerada": "Não há uma pequena menina com cabelos loiros que esteja sorrindo e sentada em um balanço"
+  },
+  {
+    "frase_base": "Uma pequena menina com cabelos loiros está sorrindo e sentada em um balanço",
+    "codigo": "substitution",
+    "frase_gerada": "Um homem grande com barba está sorrindo e sentado em uma mesa"
+  },
+  {
+    "frase_base": "Uma pequena menina com cabelos loiros está sorrindo e sentada em um balanço",
+    "codigo": "insertion",
+    "frase_gerada": "Uma pequena menina com cabelos loiros é muito alegre enquanto está sorrindo e sentada em um balanço"
+  },
+  {
+    "frase_base": "Um homem fazendo exercícios está sendo derrubado",
+    "codigo": "negation",
+    "frase_gerada": "Ninguém não está fazendo exercícios e não está sendo derrubado"
+  },
+  {
+    "frase_base": "Um homem fazendo exercícios está sendo derrubado",
+    "codigo": "substitution",
+    "frase_gerada": "Uma mulher fazendo ioga está sendo agradecida"
+  },
+  {
+    "frase_base": "Um homem fazendo exercícios está being derrubado",
+    "codigo": "insertion",
+    "frase_gerada": "Um homem fazendo exercícios intensos está sendo sorratecamente derrubado"
+  },
+  {
+    "frase_base": "Dois meninos pequenos estão brincando do lado de fora com uma bola de futebol na grama verde",
+    "codigo": "negation",
+    "frase_gerada": "Nenhum menino está brincando do lado de fora com a bola de futebol na grama verde"
+  },
+  {
+    "frase_base": "Dois meninos pequenos estão brincando do lado de fora com uma bola de futebol na grama verde",
+    "codigo": "substitution",
+    "frase_gerada": "Três meninas estão brincando do lado de fora com uma bolas de vôlei na grama azul"
+  },
+  {
+    "frase_base": "Dois meninos pequenos estão brincando do lado de fora com uma bola de futebol na grama verde",
+    "codigo": "insertion",
+    "frase_gerada": "Dois meninos muito pequenos estão brincando do lado de fora com uma bola de futebol linda na grama verde"
+  },
+  {
+    "frase_base": "Um cachorro está pulando em um trampolim de mergulho",
+    "codigo": "negation",
+    "frase_gerada": "Nenhum cachorro não está pulando em um trampolim de mergulho"
+  },
+  {
+    "frase_base": "Um cachorro está pulando em um trampolim de mergulho",
+    "codigo": "substitution",
+    "frase_gerada": "Uma elefante está pulando em uma bicicleta de mergulho"
+  },
+  {
+    "frase_base": "Um cachorro está pulando em um trampolim de mergulho",
+    "codigo": "insertion",
+    "frase_gerada": "Um cachorro está pulando muito alto em um trampolim de mergulho"
+  },
+  {
+    "frase_base": "Uma mulher está tocando flauta",
+    "codigo": "negation",
+    "frase_gerada": "Não uma mulher está tocando flauta"
+  },
+  {
+    "frase_base": "Uma mulher está tocando flauta",
+    "codigo": "substitution",
+    "frase_gerada": "Um homem está tocando saxofone"
+  },
+  {
+    "frase_base": "Uma mulher está tocando flauta",
+    "codigo": "insertion",
+    "frase_gerada": "Uma mulher muito talentosa está tocando flauta com habilidade"
+  },
+  {
+    "codigo": "negation",
+    "frase_gerada": "A não massa não está sendo esticada pelo homem"
+  },
+  {
+    "codigo": "substitution",
+    "frase_gerada": "A bicicleta está sendo esticada por um estudante"
+  },
+  {
+    "codigo": "insertion",
+    "frase_gerada": "A massa está sendo esticada rapidamente por um homem"
+  },
+  {
+    "codigo": "negation",
+    "frase_gerada": "Não uma menina está tatuando sua mão"
+  },
+  {
+    "codigo": "substitution",
+    "frase_gerada": "Uma menino está tatuando sua orelha"
+  },
+  {
+    "codigo": "insertion",
+    "frase_gerada": "Uma menina linda está tatuando sua mão rapidamente"
+  },
+  {
+    "frase_base": "Quatro cachorros estão brincando em uma área coberta de grama",
+    "codigo": "negation",
+    "frase_gerada": "Nenhum cachorro está brincando em uma área coberta de grama"
+  },
+  {
+    "frase_base": "Quatro cachorros estão brincando em uma área coberta de grama",
+    "codigo": "substitution",
+    "frase_gerada": "Dois gatos estão brincando em uma área coberta de grama"
+  },
+  {
+    "frase_base": "Quatro cachorros estão brincando em uma área coberta de grama",
+    "codigo": "insertion",
+    "frase_gerada": "Quatro cachorros están bravamente brincando em uma área coberta de grama"
+  },
+  {
+    "frase_base": "Uma criança pequenina está avidamente bebendo água da xícara",
+    "codigo": "negation",
+    "frase_gerada": "A criança não está bebendo água da xícara"
+  },
+  {
+    "frase_base": "Uma criança pequenina está avidamente bebendo água da xícara",
+    "codigo": "substitution",
+    "frase_gerada": "Uma menina está avidamente bebendo chá da xícara"
+  },
+  {
+    "frase_base": "Uma criança pequenina está avidamente bebendo água da xícara",
+    "codigo": "insertion",
+    "frase_gerada": "Uma criança muito pequenina está avidamente bebendo água quente da xícara"
+  },
+  {
+    "frase_base": "O cervo não está pulando por cima da cerca",
+    "codigo": "negation",
+    "frase_gerada": "O cervo está pulando por cima da cerca"
+  },
+  {
+    "frase_base": "O cervo não está pulando por cima da cerca",
+    "codigo": "substitution",
+    "frase_gerada": "A égua não está pulando por cima da cerca"
+  },
+  {
+    "frase_base": "O cervo não está pulando por cima da cerca",
+    "codigo": "insertion",
+    "frase_gerada": "O cervo muito feliz não está pulando por cima da cerca"
+  },
+  {
+    "frase_base": "Um homem está gritando",
+    "codigo": "negation",
+    "frase_gerada": "O homem não está gritando"
+  },
+  {
+    "frase_base": "Um homem está gritando",
+    "codigo": "substitution",
+    "frase_gerada": "Uma mulher está falando"
+  },
+  {
+    "frase_base": "Um homem está gritando",
+    "codigo": "insertion",
+    "frase_gerada": "Um homem muito alto está gritando"
+  },
+  {
+    "frase_base": "O cachorro está abocanhando algumas gotas de água",
+    "codigo": "negation",
+    "frase_gerada": "O cachorro não está abocanhando nenhuma gota de água"
+  },
+  {
+    "frase_base": "O cachorro está abocanhando algumas gotas de água",
+    "codigo": "substitution",
+    "frase_gerada": "O gato está abocanhando algumas gotas de água"
+  },
+  {
+    "frase_base": "O cachorro está abocanhando algunas gotas de água",
+    "codigo": "insertion",
+    "frase_gerada": "O cachorro está abocanhando algumas gotas de água muito pequenas"
+  },
+  {
+    "frase_base": "Um homem está liderando a corrida",
+    "codigo": "negation",
+    "frase_gerada": "Ninguém está liderando a corrida"
+  },
+  {
+    "frase_base": "Um homem está liderando a corrida",
+    "codigo": "substitution",
+    "frase_gerada": "Uma mulher está liderando a corrida"
+  },
+  {
+    "frase_base": "Um homem está liderando a corrida",
+    "codigo": "insertion",
+    "frase_gerada": "Um homem rápido está liderando a corrida com entusiasmo"
+  },
+  "A frase não está mais fatiando batatas",
+  "Ela não está fatiando batatas nunca",
+  "Ele não está mais fazendo isso, jamais fatia batatas",
+  {
+    "frase_base": "Um menino está de pé na frente do prédio pintado de azul, no espaço reservado para pessoas com deficiência",
+    "codigo": "negation",
+    "frase_gerada": "A frase não está de pé na frente do prédio pintado de azul, no espaço reservado para pessoas sem deficiência"
+  },
+  {
+    "frase_base": "Um menino está de pé na frente do prédio pintado de azul, no espaço reservado para pessoas com deficiência",
+    "codigo": "substitution",
+    "frase_gerada": "Uma garota está de pé na frente do edifício pintado de verde, no espaço reservado para pessoas com doença"
+  },
+  {
+    "frase_base": "Um menino está de pé na frente do prédio pintado de azul, no espaço reservado para pessoas com deficiência",
+    "codigo": "insertion",
+    "frase_gerada": "Um menino pequeno está de pé na frente do prédio pintado de azul, no espaço reservado para pessoas com deficiência surpresa"
+  },
+  {
+    "frase_base": "O cervo está saltando sobre a cerca",
+    "codigo": "negation",
+    "frase_gerada": "O cervo não está saltando sobre a cerca"
+  },
+  {
+    "frase_base": "O cervo está saltando sobre a cerca",
+    "codigo": "substitution",
+    "frase_gerada": "A lebre está correndo em torno da cerca"
+  },
+  {
+    "frase_base": "O cervo está saltando sobre a cerca",
+    "codigo": "insertion",
+    "frase_gerada": "O cervo está saltando rapidamente sobre a cerca"
+  },
+  {
+    "frase_base": "Um menino de camisa vermelha está atrás de uma parede azul comprida e está abaixando uma sobrancelha, de frente para a câmera",
+    "codigo": "negation",
+    "frase_gerada": "A frase não é sobre um menino..."
+  },
+  {
+    "frase_base": "Um menino de camisa vermelha está atrás de uma parede azul comprida e está abaixando uma sobrancelha, de frente para a câmera",
+    "codigo": "substitution",
+    "frase_gerada": "A frase com um garoto de camisa amarela..."
+  },
+  {
+    "frase_base": "Um menino de camisa vermelha está atrás de uma parede azul comprida e está abaixando uma sobrancelha, de frente para a câmera",
+    "codigo": "insertion",
+    "frase_gerada": "Um menino muito feliz de camisa vermelha..."
+  },
+  {
+    "frase_base": "O homem está praticando escalada em uma parede de pedra",
+    "codigo": "negation",
+    "frase_gerada": "O homem não está praticando escalada em uma parede de pedra"
+  },
+  {
+    "frase_base": "O homem está praticando escalada em uma parede de pedra",
+    "codigo": "substitution",
+    "frase_gerada": "A menina está praticando escalada em uma parede de pedra"
+  },
+  {
+    "frase_base": "O homem está praticando escalada em uma parede de pedra",
+    "codigo": "insertion",
+    "frase_gerada": "O homem é um experto em escalada e está praticando em uma parede de pedra muito difícil"
+  },
+  {
+    "frase_base": "Uma pessoa que anda de bicicleta, de uniforme preto e vermelho, está parada em uma mountain bike",
+    "codigo": "negation",
+    "frase_gerada": "A frase não está parada com uma mountain bike"
+  },
+  {
+    "frase_base": "Uma pessoa que anda de bicicleta, de uniforme preto e vermelho, está parada em uma mountain bike",
+    "codigo": "substitution",
+    "frase_gerada": "Um homem que anda de moto, de uniforme azul e amarelo, está parado em um Harley-Davidson"
+  },
+  {
+    "frase_base": "Uma pessoa que anda de bicicleta, de uniforme preto e vermelho, está parada em uma mountain bike",
+    "codigo": "insertion",
+    "frase_gerada": "A pessoa habilidosa que anda de bicicleta, de uniforme preto e vermelho, está parada em uma mountain bike com velocidade moderada"
+  },
+  {
+    "frase_base": "Futebol está sendo jogado por dois times concorrentes",
+    "codigo": "negation",
+    "frase_gerada": "O futebol não está sendo jogado..."
+  },
+  {
+    "frase_base": "Futebol está sendo jogado por dois times concorrentes",
+    "codigo": "substitution",
+    "frase_gerada": "A esportiva está sendo jogado por três times..."
+  },
+  {
+    "frase_base": "Futebol está sendo jogado por dois times concorrentes",
+    "codigo": "insertion",
+    "frase_gerada": "O futebol emocionante está sendo jogado por dois times concorrentes..."
+  },
+  {
+    "frase_base": "Um cachorro castanho está roendo um poste metálico que está preso no chão",
+    "codigo": "negation",
+    "frase_gerada": "Nenhum cachorro castanho está roendo um poste metálico que está preso no chão"
+  },
+  {
+    "frase_base": "Um cachorro castanho está roendo um poste metálico que está preso no chão",
+    "codigo": "substitution",
+    "frase_gerada": "Uma gata branca está roendo uma barraca de praia que está presa no areião"
+  },
+  {
+    "frase_base": "Um cachorro castanho está roedo um poste metálico que está preso no chão",
+    "codigo": "insertion",
+    "frase_gerada": "Um cachorro castanho está roendo lentamente um poste metálico que está preso no chão"
+  },
+  {
+    "frase_base": "O homem está intensamente tocando o violão",
+    "codigo": "negation",
+    "frase_gerada": "O homem não está tocando o violão"
+  },
+  {
+    "frase_base": "O homem está intensamente tocando o violão",
+    "codigo": "substitution",
+    "frase_gerada": "A mulher está intensamente tocando o violão"
+  },
+  {
+    "frase_base": "O homem está intensamente tocando o violão",
+    "codigo": "insertion",
+    "frase_gerada": "O homem está muito intensamente tocando o violão com habilidade incrível"
+  },
+  {
+    "frase_base": "Um grupo de pessoas está em pé ao redor de uma mesa de som",
+    "codigo": "negation",
+    "frase_gerada": "Nenhum grupo de pessoas não está em pé ao redor de uma mesa de som"
+  },
+  {
+    "frase_base": "Um grupo de pessoas está em pé ao redor de uma mesa de som",
+    "codigo": "substitution",
+    "frase_gerada": "Uma turma de estudantes está sentada ao redor de uma cadeira de som"
+  },
+  {
+    "frase_base": "Um grupo de pessoas está em pé ao redor de uma mesa de som",
+    "codigo": "insertion",
+    "frase_gerada": "Um grupo de pessoas animadas está em pé ao redor de uma mesa de som com um microfone"
+  },
+  {
+    "frase_base": "Alguns ingredientes estão sendo misturados em uma tigela por uma pessoa",
+    "codigo": "negation",
+    "frase_gerada": "Nenhum ingrediente está sendo misturado em uma tigela por uma pessoa"
+  },
+  {
+    "frase_base": "Alguns ingredientes estão sendo misturados em uma tigela por uma pessoa",
+    "codigo": "substitution",
+    "frase_gerada": "Algumas frutas estão sendo misturadas em uma tigela por um animal"
+  },
+  {
+    "frase_base": "Alguns ingredientes estão sendo misturados em uma tigela por uma pessoa",
+    "codigo": "insertion",
+    "frase_gerada": "Alguns ingredientes quentes estão sendo misturados em uma tigela por uma pessoa cuidadosa"
+  },
+  {
+    "frase_base": "Duas crianças estão olhando por um parapeito enferrujado",
+    "codigo": "negation",
+    "frase_gerada": "Nenhuma criança está olhando por um parapeito enferrujado"
+  },
+  {
+    "frase_base": "Duas crianças estão olhando por um parapeito enferrujado",
+    "codigo": "substitution",
+    "frase_gerada": "Três homens estão olhando por um parapeito novinho"
+  },
+  {
+    "frase_base": "Duas crianças estão olhando por um parapeito enferrujado",
+    "codigo": "insertion",
+    "frase_gerada": "Duas crianças estão ansiosamente olhando por um parapeito enferrujado"
+  },
+  {
+    "frase_base": "Uma bola de neve está sendo feita por uma criança",
+    "codigo": "negation",
+    "frase_gerada": "Não há uma bola de neve sendo feita por uma criança"
+  },
+  {
+    "frase_base": "Uma bola de neve está sendo feita por uma criança",
+    "codigo": "substitution",
+    "frase_gerada": "A menina está fazendo uma bola de futebol"
+  },
+  {
+    "frase_base": "Uma bola de neve está sendo feita por uma criança",
+    "codigo": "insertion",
+    "frase_gerada": "Uma bola de neve está sendo feita com muito esforço por uma criança alegre"
+  },
+  {
+    "frase_base": "Um cachorro está brincando no chão",
+    "codigo": "negation",
+    "frase_gerada": "Nenhum cachorro não está brincando no chão"
+  },
+  {
+    "frase_base": "Um cachorro está brincando no chão",
+    "codigo": "substitution",
+    "frase_gerada": "Uma gato está brincando no chão"
+  },
+  {
+    "frase_base": "Um cachorro está brincando no chão",
+    "codigo": "insertion",
+    "frase_gerada": "Um cachorro está brincando com energia no chão"
+  },
+  {
+    "frase_base": "Um homem está encostado em um poste e está cercado",
+    "codigo": "negation",
+    "frase_gerada": "Não há homem encostado em um poste e não está cercado"
+  },
+  {
+    "frase_base": "Um homem está encostado em um poste e está cercado",
+    "codigo": "substitution",
+    "frase_gerada": "A mulher está sentada em uma mesa e está rodeada"
+  },
+  {
+    "frase_base": "Um homem está encostado em um poste e está cercado",
+    "codigo": "insertion",
+    "frase_gerada": "Um homem cansado está encostado em um poste e está cercado de pessoas curiosas"
+  },
+  {
+    "frase_base": "Um homem está encostado em um poste e está cercado",
+    "codigo": "deletion",
+    "frase_gerada": "Um homem está encostado em um poste"
+  },
+  {
+    "frase_base": "Um homem está encostado em um poste e está cercado",
+    "codigo": "quantifier",
+    "frase_gerada": "Muitos homens estão encostados em postes e estão cercados"
+  },
+  {
+    "frase_base": "Um menino está tocando piano habilmente",
+    "codigo": "negation",
+    "frase_gerada": "Nenhum menino está tocando piano habilmente"
+  },
+  {
+    "frase_base": "Um menino está tocando piano habilmente",
+    "codigo": "substitution",
+    "frase_gerada": "Uma garota está tocando violino habilmente"
+  },
+  {
+    "frase_base": "Um menino está tocando piano habilmente",
+    "codigo": "insertion",
+    "frase_gerada": "Um menino está tocando piano muito habilmente com emoção"
+  },
+  {
+    "frase_base": "Um homem com chapéu preto está tocando uma caixa de papelão",
+    "codigo": "negation",
+    "frase_gerada": "Ninguém não está tocando uma caixa de papelão"
+  },
+  {
+    "frase_base": "Um homem com chapéu preto está tocando uma caixa de papelão",
+    "codigo": "substitution",
+    "frase_gerada": "Uma mulher com chapéu vermelho está tocando uma bateria"
+  },
+  {
+    "frase_base": "Um homem com chapéu preto está tocando uma caixa de papelão",
+    "codigo": "insertion",
+    "frase_gerada": "Um homem com chapéu preto está tocando uma caixa de papelão vagamente"
+  },
+  {
+    "frase_base": "Um recipiente está sendo sacudido sobre uma pia na cozinha por um homem",
+    "codigo": "negation",
+    "frase_gerada": "A frase não está sendo sacudida..."
+  },
+  {
+    "frase_base": "Um recipiente está sendo sacudido sobre uma pia na cozinha por um homem",
+    "codigo": "substitution",
+    "frase_gerada": "Uma garrafa está sendo sacudida..."
+  },
+  {
+    "frase_base": "Um recipiente está being sacudido over a sink in the kitchen by a man",
+    "codigo": "insertion",
+    "frase_gerada": "Um recipiente está sendo sacudido com violência sobre uma pia na cozinha por um homem"
+  },
+  {
+    "frase_base": "A senhora está fatiando um tomate",
+    "codigo": "negation",
+    "frase_gerada": "A senhora não está fatiando um tomate"
+  },
+  {
+    "frase_base": "A senhora está fatiando um tomate",
+    "codigo": "substitution",
+    "frase_gerada": "O homem está fatiando um tomate"
+  },
+  {
+    "frase_base": "A senhora está fatiando um tomate",
+    "codigo": "insertion",
+    "frase_gerada": "A senhora está muito bem fatiando um tomate"
+  },
+  {
+    "frase_base": "Um homem está caminhando do lado de fora",
+    "codigo": "negation",
+    "frase_gerada": "Não há um homem que esteja caminhando do lado de fora"
+  },
+  {
+    "frase_base": "Um homem está caminhando do lado de fora",
+    "codigo": "substitution",
+    "frase_gerada": "Uma mulher está caminhando do lado de fora"
+  },
+  {
+    "frase_base": "Um homem está caminhando do lado de fora",
+    "codigo": "insertion",
+    "frase_gerada": "Um homem cansado está caminhando muito rápido do lado de fora"
+  },
+  {
+    "frase_base": "Uma pessoa de jaqueta azul está usando um capacete colorido",
+    "codigo": "negation",
+    "frase_gerada": "A pessoa não está usando um capacete colorido"
+  },
+  {
+    "frase_base": "Uma pessoa de jaquatazul está usando um capacete colorido",
+    "codigo": "substitution",
+    "frase_gerada": "A pessoa de jaqueta vermelha está usando um capacete colorido"
+  },
+  {
+    "frase_base": "Uma pessoa de jaqueta azul está usando um capacete colorido e uma máscara",
+    "codigo": "insertion",
+    "frase_gerada": "Uma pessoa de jaqueta azul está usando um capacete colorido e uma máscara protetora"
+  },
+  {
+    "frase_base": "Não há nenhum homem montando um cavalo",
+    "codigo": "negation",
+    "frase_gerada": "Há alguém que monta um cavalo"
+  },
+  {
+    "frase_base": "Não há nenhum homem montando um cavalo",
+    "codigo": "substitution",
+    "frase_gerada": "Não há nenhuma mulher montando um gato"
+  },
+  {
+    "frase_base": "Não há nenhum homem montando um cavalo",
+    "codigo": "insertion",
+    "frase_gerada": "Não há nenhum homem calmo montando um cavalo"
+  },
+  {
+    "frase_base": "Uma pessoa vestindo jeans está sentada em cima de uma sela de cavalo",
+    "codigo": "negation",
+    "frase_gerada": "Ninguém vestindo jeans não está sentado em cima de uma sela de cavalo"
+  },
+  {
+    "frase_base": "Uma pessoa vestindo jeans está sentada em cima de uma sela de cavalo",
+    "codigo": "substitution",
+    "frase_gerada": "Alguém vestindo calças está sentado em cima de uma sela de elefante"
+  },
+  {
+    "frase_base": "Uma pessoa vestindo jeans está sentada em cima de uma sela de cavalo",
+    "codigo": "insertion",
+    "frase_gerada": "Uma pessoa vestindo jeans e usando um chapéu está sentada em cima de uma sela de cavalo"
+  },
+  {
+    "frase_base": "Três adolescentes estão morgando no quarto",
+    "codigo": "negation",
+    "frase_gerada": "Nenhum adolescente está morgando no quarto"
+  },
+  {
+    "frase_base": "Três adolescentes estão morgando no quarto",
+    "codigo": "substitution",
+    "frase_gerada": "Dois estudantes estão assistindo TV no quarto"
+  },
+  {
+    "frase_base": "Três adolescentes estão morgando no quarto",
+    "codigo": "insertion",
+    "frase_gerada": "Três adolescentes estão morgando nervosamente no quarto"
+  },
+  {
+    "frase_base": "Uma pessoa com um chapéu para trás está sentada no chão",
+    "codigo": "negation",
+    "frase_gerada": "Ninguém não está sentado sem chapéu"
+  },
+  {
+    "frase_base": "Uma pessoa com um chapéu para trás está sentada no chão",
+    "codigo": "substitution",
+    "frase_gerada": "O homem com uma touca para frente está parado na mesa"
+  },
+  {
+    "frase_base": "Uma pessoa com um chapéu para trás está sentada no chão",
+    "codigo": "insertion",
+    "frase_gerada": "Uma pessoa silenciosa com um chapéu antigo e esmaltado para trás está sentada no chão"
+  },
+  {
+    "frase_base": "O homem está comendo cereal",
+    "codigo": "negation",
+    "frase_gerada": "O homem não está comendo cereal"
+  },
+  {
+    "frase_base": "O homem está comendo cereal",
+    "codigo": "substitution",
+    "frase_gerada": "A mulher está comendo cereal"
+  },
+  {
+    "frase_base": "O homem está comendo cereal",
+    "codigo": "insertion",
+    "frase_gerada": "O homem está rapidamente comendo cereal"
+  },
+  {
+    "frase_base": "Vegetais picados estão sendo despejados dentro de uma panela no fogão por uma pessoa",
+    "codigo": "negation",
+    "frase_gerada": "Os vegetais não estão sendo despejados..."
+  },
+  {
+    "frase_base": "Vegetais picados estão sendo despejados dentro de uma panela no fogão por uma pessoa",
+    "codigo": "substitution",
+    "frase_gerada": "Frutas frescas estão sendo despejadas..."
+  },
+  {
+    "frase_base": "Vegetais picados estão sendo despejados dentro de uma panela no fogão por uma pessoa",
+    "codigo": "insertion",
+    "frase_gerada": "Vegetais picados suaves estão sendo despejados..."
+  },
+  {
+    "frase_base": "Uma mulher está cortando brócolis",
+    "codigo": "negation",
+    "frase_gerada": "Nenhuma mulher não está cortando brócolis"
+  },
+  {
+    "frase_base": "Uma mulher está cortando brócolis",
+    "codigo": "substitution",
+    "frase_gerada": "Um homem está cortando alface"
+  },
+  {
+    "frase_base": "Uma mulher está cortando brócolis",
+    "codigo": "insertion",
+    "frase_gerada": "Uma mulher está cuidadosamente cortando brócolis"
+  },
+  {
+    "frase_base": "Um homem está andando de bicicleta elétrica",
+    "codigo": "negation",
+    "frase_gerada": "Não há um homem andando de bicicleta elétrica"
+  },
+  {
+    "frase_base": "Um homem está andando de bicicleta elétrica",
+    "codigo": "substitution",
+    "frase_gerada": "Uma mulher está andando de bicicleta elétrica"
+  },
+  {
+    "frase_base": "Um homem está andando de bicicleta elétrica",
+    "codigo": "insertion",
+    "frase_gerada": "Um homem jovem está andando de bicicleta elétrica com velocidade alta"
+  },
+  {
+    "codigo": "negation",
+    "frase_gerada": "Não uma flauta de madeira é tocada por um homem"
+  },
+  {
+    "codigo": "substitution",
+    "frase_gerada": "Uma harpa de metal é tocada por uma mulher"
+  },
+  {
+    "codigo": "insertion",
+    "frase_gerada": "Uma flauta de madeira, muito antiga, é tocada por um homem"
+  },
+  {
+    "frase_base": "Uma pessoa está realizando truques em uma motocicleta",
+    "codigo": "negation",
+    "frase_gerada": "Ninguém não está fazendo truques em uma motocicleta"
+  },
+  {
+    "frase_base": "Uma pessoa está realizando truques em uma motocicleta",
+    "codigo": "substitution",
+    "frase_gerada": "Alguém está fazendo truques em uma vespa"
+  },
+  {
+    "frase_base": "Uma pessoa está realizando truques em uma motocicleta",
+    "codigo": "insertion",
+    "frase_gerada": "Uma pessoa animada está fazendo truques perigosos em uma motocicleta"
+  },
+  {
+    "frase_base": "Um lápis está sendo apontado",
+    "codigo": "negation",
+    "frase_gerada": "O lápis não está sendo apontado"
+  },
+  {
+    "frase_base": "Um lápis está sendo apontado",
+    "codigo": "substitution",
+    "frase_gerada": "Uma caneta está sendo apontada"
+  },
+  {
+    "frase_base": "Um lápis está sendo apontado",
+    "codigo": "insertion",
+    "frase_gerada": "Um lápis cuidadosamente está sendo apontado"
+  },
+  {
+    "frase_base": "Os corredores não estão correndo em torno de uma pista",
+    "codigo": "negation",
+    "frase_gerada": "Os corredores estão correndo em torno de uma pista"
+  },
+  {
+    "frase_base": "Os corredores não estão correndo em torno de uma pista",
+    "codigo": "substitution",
+    "frase_gerada": "As bicicletas não estão correndo em torno de uma pista"
+  },
+  {
+    "frase_base": "Os corredores não estão correndo em torno de uma pista",
+    "codigo": "insertion",
+    "frase_gerada": "Os corredores estão muito cansados não estão correndo em torno de uma pista"
+  },
+  {
+    "frase_base": "Um menino está olhando um calendário",
+    "codigo": "negation",
+    "frase_gerada": "Ninguém está olhando um calendário"
+  },
+  {
+    "frase_base": "Um menino está olhando um calendário",
+    "codigo": "substitution",
+    "frase_gerada": "Uma garota está olhando um cronograma"
+  },
+  {
+    "frase_base": "Um menino está olhando um calendário",
+    "codigo": "insertion",
+    "frase_gerada": "Um menino está olhando um calendário colorido"
+  },
+  {
+    "frase_base": "Uma pessoa está untando uma assadeira",
+    "codigo": "negation",
+    "frase_gerada": "Ninguém não está desuntando uma assadeira"
+  },
+  {
+    "frase_base": "Uma pessoa está untando uma assadeira",
+    "codigo": "substitution",
+    "frase_gerada": "Um robô está untando uma frigideira"
+  },
+  {
+    "frase_base": "Uma pessoa está untando uma assadeira",
+    "codigo": "insertion",
+    "frase_gerada": "Uma pessoa está untando lentamente uma assadeira"
+  },
+  {
+    "frase_base": "Uma pessoa está sentada em um campo e está usando um chapéu",
+    "codigo": "negation",
+    "frase_gerada": "Ninguém está sentado no campo e não está usando chapéu"
+  },
+  {
+    "frase_base": "Uma pessoa está sentada em um campo e está usando um chapéu",
+    "codigo": "substitution",
+    "frase_gerada": "Alguém está sentado em uma floresta e está usando uma touca"
+  },
+  {
+    "frase_base": "Uma pessoa está sentada em um campo e está usando um chapéu",
+    "codigo": "insertion",
+    "frase_gerada": "Uma pessoa está sentada em um campo tranquilo e está usando um chapéu antigo"
+  },
+  {
+    "frase_base": "Uma jovem senhora está medindo o tornozelo de outra mulher",
+    "codigo": "negation",
+    "frase_gerada": "A jovem senhora não está medindo o tornozelo da outra mulher"
+  },
+  {
+    "frase_base": "Uma jovem senhora está medindo o tornozelo de outra mulher",
+    "codigo": "substitution",
+    "frase_gerada": "Uma jovem homem está medindo o joelho da outra homem"
+  },
+  {
+    "frase_base": "Uma jovem senhora está medindo o tornozelo de outra mulher",
+    "codigo": "insertion",
+    "frase_gerada": "Uma jovem senhora muito habilidosa está medindo o tornozelo da outra mulher"
+  },
+  {
+    "frase_base": "Ovos estão sendo fervidos pela mulher",
+    "codigo": "negation",
+    "frase_gerada": "Os ovos não estão sendo fervidos pela mulher"
+  },
+  {
+    "frase_base": "Ovos estão being cooked by the woman",
+    "codigo": "substitution",
+    "frase_gerada": "Eggs are being cooked by the man"
+  },
+  {
+    "frase_base": "Ovos estão sendo fervidos pela mulher",
+    "codigo": "insertion",
+    "frase_gerada": "Os ovos são delicadamente sendo fervidos pela mulher"
+  },
+  {
+    "frase_base": "Duas pessoas em duas cadeiras estão lendo agradavelmente",
+    "codigo": "negation",
+    "frase_gerada": "Ninguém está lendo essa frase"
+  },
+  {
+    "frase_base": "Duas pessoas em duas cadeiras estão lendo agradavelmente",
+    "codigo": "substitution",
+    "frase_gerada": "Três pessoas em três cadeiras estão lendo agradavelmente"
+  },
+  {
+    "frase_base": "Duas pessoas em duas cadeiras estão lendo agradavelmente",
+    "codigo": "insertion",
+    "frase_gerada": "Duas pessoas relaxadas em duas cadeiras estão lendo agradavelmente"
+  },
+  {
+    "frase_base": "A menina está pulando imprudentemente para dentro de um carro",
+    "codigo": "negation",
+    "frase_gerada": "A frase não é prudente..."
+  },
+  {
+    "frase_base": "A menina está pulando imprudentemente para dentro de um carro",
+    "codigo": "substitution",
+    "frase_gerada": "O homem está correndo perigosamente para dentro de um caminhão"
+  },
+  {
+    "frase_base": "A menina está pulando imprudentemente para dentro de um carro",
+    "codigo": "insertion",
+    "frase_gerada": "A menina está pulando imprudentemente e com muito cuidado para dentro do carro"
+  },
+  {
+    "frase_base": "A mulher está alegremente tocando um violão, que é acústico, e cantando",
+    "codigo": "negation",
+    "frase_gerada": "A frase não está sendo tocada..."
+  },
+  {
+    "frase_base": "A mulher está alegremente tocando um violão, que é acústico, e cantando",
+    "codigo": "substitution",
+    "frase_gerada": "O homem está tocando um bandolim..."
+  },
+  {
+    "frase_base": "A mulher está alegremente tocando um violão, que é acústico, e cantando",
+    "codigo": "insertion",
+    "frase_gerada": "A mulher está muito alegremente tocando um violão..."
+  },
+  {
+    "frase_base": "Um homem está cantando em um microfone",
+    "codigo": "negation",
+    "frase_gerada": "O homem não está cantando em um microfone"
+  },
+  {
+    "frase_base": "Um homem está cantando em um microfone",
+    "codigo": "substitution",
+    "frase_gerada": "Uma mulher está cantando em um microfone"
+  },
+  {
+    "frase_base": "Um homem está cantando em um microfone",
+    "codigo": "insertion",
+    "frase_gerada": "Um homem está cantando muito bem em um microfone"
+  },
+  {
+    "frase_base": "Dois homens jovens estão brincando alegremente perto de uma estátua dourada",
+    "codigo": "negation",
+    "frase_gerada": "Os dois homens não estão brincando alegremente perto de uma estátua dourada"
+  },
+  {
+    "frase_base": "Dois homens jovens estão brincando alegremente perto de uma estátua dourada",
+    "codigo": "substitution",
+    "frase_gerada": "Três meninas jovens estão brincando alegremente perto de uma estátua prateada"
+  },
+  {
+    "frase_base": "Dois homens jovens estão brincando alegremente perto de uma estátua dourada",
+    "codigo": "insertion",
+    "frase_gerada": "Dois homens jovens e animados estão brincando alegremente perto de uma estátua dourada"
+  },
+  {
+    "frase_base": "As pessoas estão andando de bote e remando",
+    "codigo": "negation",
+    "frase_gerada": "A frase não está sendo andado de bote e remandida"
+  },
+  {
+    "frase_base": "As pessoas estão andando de bote e remando",
+    "codigo": "substitution",
+    "frase_gerada": "Os homens estão andando de barco e remarando"
+  },
+  {
+    "frase_base": "As pessoas estão andando de bote e remando",
+    "codigo": "insertion",
+    "frase_gerada": "As pessoas estão andando lentamente de bote e remandando com rapidez"
+  },
+  {
+    "frase_base": "Uma criança pequena está sentada em um assento",
+    "codigo": "negation",
+    "frase_gerada": "A criança não está sentada em um assento"
+  },
+  {
+    "frase_base": "Uma criança pequena está sentada em um assento",
+    "codigo": "substitution",
+    "frase_gerada": "Um bebê está sentado em uma cadeira"
+  },
+  {
+    "frase_base": "Uma criança pequena está sentada em um assento",
+    "codigo": "insertion",
+    "frase_gerada": "A criança muito pequena está sentada em um assento comum"
+  },
+  {
+    "frase_base": "Os meninos estão de pé na frente do carro, que está queimando",
+    "codigo": "negation",
+    "frase_gerada": "Os meninos não estão de pé na frente do carro, que não está queimando"
+  },
+  {
+    "frase_base": "Os meninos estão de pé na frente do carro, que está queimando",
+    "codigo": "substitution",
+    "frase_gerada": "As meninas estão de pé na frente da bicicleta, que está queimando"
+  },
+  {
+    "frase_base": "Os meninos estão de pé na frente do carro, que está queimando",
+    "codigo": "insertion",
+    "frase_gerada": "Os meninos estão de pé na frente do carro velho e desgastado, que está queimando"
+  },
+  {
+    "frase_base": "Uma mulher está cuidadosamente aplicando cosméticos em sua pálpebra",
+    "codigo": "negation",
+    "frase_gerada": "Nenhuma mulher não está aplicando cosméticos em sua pálpebra"
+  },
+  {
+    "frase_base": "Uma mulher está cuidadosamente aplicando cosméticos em sua pálpebra",
+    "codigo": "substitution",
+    "frase_gerada": "Um homem está cuidadosamente aplicando cosméticos em sua pálpebra"
+  },
+  {
+    "frase_base": "Uma mulher está cuidadosamente aplicando cosméticos em sua pálpebra",
+    "codigo": "insertion",
+    "frase_gerada": "Uma mulher está cuidadosamente e delicadamente aplicando cosméticos em sua pálpebra"
+  },
+  {
+    "frase_base": "Os homens estão cortando madeira",
+    "codigo": "negation",
+    "frase_gerada": "Os homens não estão cortando madeira"
+  },
+  {
+    "frase_base": "Os homens estão cortando madeira",
+    "codigo": "substitution",
+    "frase_gerada": "As mulheres estão cortando madeira"
+  },
+  {
+    "frase_base": "Os homens estão cortando madeira",
+    "codigo": "insertion",
+    "frase_gerada": "Os homens estão cortando feito madeira"
+  },
+  {
+    "frase_base": "Uma pessoa está cantando e tocando violão",
+    "codigo": "negation",
+    "frase_gerada": "Ninguém não está cantando e tocou violão"
+  },
+  {
+    "frase_base": "Uma pessoa está cantando e tocando violão",
+    "codigo": "substitution",
+    "frase_gerada": "A outra pessoa está cantando e tocando guitarra"
+  },
+  {
+    "frase_base": "Uma pessoa está cantando e tocando violão",
+    "codigo": "insertion",
+    "frase_gerada": "Uma pessoa emocionada está cantando e tocando violão com estilo"
+  },
+  {
+    "frase_base": "Uma velha mulher está vestindo uma camisa com um padrão de rosas e está desajeitadamente carregando dois jornais",
+    "codigo": "negation",
+    "frase_gerada": "A frase não é uma velha mulher que está vestindo uma camisa com um padrão de rosas e está desajeitadamente carregando dois jornais"
+  },
+  {
+    "frase_base": "Uma velha mulher está vestindo uma camisa com um padrão de rosas e está desajeitadamente carregando dois jornais",
+    "codigo": "substitution",
+    "frase_gerada": "Um homem jovem está vestindo uma camisa com um padrão de abacaxis e está naturalmente carregando três revistas"
+  },
+  {
+    "frase_base": "Uma velha mulher está vestindo uma camisa com um padrão de rosas e está desajeitadamente carregando dois jornais",
+    "codigo": "insertion",
+    "frase_gerada": "Uma velha mulher muito sorridente está vestindo uma camisa com um padrão de rosas lindamente coloridas e está desajeitadamente carregando dois jornais"
+  },
+  {
+    "frase_base": "Uma multidão perto das pessoas está se beijando dois a dois",
+    "codigo": "negation",
+    "frase_gerada": "A multidão não está se beijando"
+  },
+  {
+    "frase_base": "Uma multidão perto das pessoas está se beijando dois a dois",
+    "codigo": "substitution",
+    "frase_gerada": "O grupo de amigos está se beijando"
+  },
+  {
+    "frase_base": "Uma multidão perto das pessoas está se beijando dois a dois",
+    "codigo": "insertion",
+    "frase_gerada": "A multidão animada e feliz perto das pessoas está se beijando"
+  },
+  {
+    "frase_base": "Um homem está esguichando água na boca de um cachorro branco com uma pistola de água",
+    "codigo": "negation",
+    "frase_gerada": "A frase não é sobre um homem que está esguichando água..."
+  },
+  {
+    "frase_base": "Um homem está esguichando água na boca de um cachorro branco com uma pistola de água",
+    "codigo": "substitution",
+    "frase_gerada": "A frase sobre um mulher está esguichando água..."
+  },
+  {
+    "frase_base": "Um homem está esguichando água na boca de um cachorro branco com uma pistola de água",
+    "codigo": "insertion",
+    "frase_gerada": "O homem está esguichando água muito rápido..."
+  },
+  {
+    "frase_base": "Um homem está esguichande água na boca de um cachorro branco com uma pistola de água",
+    "codigo": "deletion",
+    "frase_gerada": "O homem está esguichando água na boca de um cachorro..."
+  },
+  {
+    "frase_base": "Um homem está esguichando muita água na boca de um cachorro branco com uma pistola de água",
+    "codigo": "quantifier",
+    "frase_gerada": "O homem está esguichando pouca água..."
+  },
+  {
+    "frase_base": "Alguns animais estão fora da água",
+    "codigo": "negation",
+    "frase_gerada": "Não há animais fora da água"
+  },
+  {
+    "frase_base": "Alguns animals estão fora da água",
+    "codigo": "substitution",
+    "frase_gerada": "Muitos peixes estão fora da água"
+  },
+  {
+    "frase_base": "Alguns animais estão fora da água",
+    "codigo": "insertion",
+    "frase_gerada": "Alguns animais selvagens estão fortemente fora da água"
+  },
+  {
+    "frase_base": "Não tem água sendo bebida por um gato",
+    "codigo": "negation",
+    "frase_gerada": "A frase não é jamais bebida por um gato"
+  },
+  {
+    "frase_base": "Não tem água sendo bebida por um gato",
+    "codigo": "substitution",
+    "frase_gerada": "O homem está bebericando uma xícara de café"
+  },
+  {
+    "frase_base": "Não tem água being drinking by a cat",
+    "codigo": "insertion",
+    "frase_gerada": "A água é fresca quando está sendo bebida por um gato"
+  },
+  {
+    "frase_base": "Uma menina pequena está sorrindo e correndo para fora da casa",
+    "codigo": "negation",
+    "frase_gerada": "A menina não é muito pequena, mas ainda assim está sorrindo e correndo para fora da casa"
+  },
+  {
+    "frase_base": "Uma menina pequena está sorrindo e correndo para fora da casa",
+    "codigo": "substitution",
+    "frase_gerada": "Um garoto grande está sorrindo e correndo para fora da casa"
+  },
+  {
+    "frase_base": "Uma menina pequena está sorrindo e correndo para fora da casa",
+    "codigo": "insertion",
+    "frase_gerada": "A menina muito animada está sorrindo e correndo muito rápido para fora da casa"
+  },
+  {
+    "frase_base": "A família está posando junto à lareira e à árvore de Natal",
+    "codigo": "negation",
+    "frase_gerada": "A família não está posando junto à lareira e à árvore de Natal"
+  },
+  {
+    "frase_base": "A família está posando junto à lareira e à árvore de Natal",
+    "codigo": "substitution",
+    "frase_gerada": "O grupo está posando junto à lareira e à árvore de Natal"
+  },
+  {
+    "frase_base": "A família está posando junto à lareira e à árvore de Natal",
+    "codigo": "insertion",
+    "frase_gerada": "A família está posando felizmente junto à lareira e à árvore de Natal"
+  },
+  {
+    "frase_base": "Alguns homenem uma competição estão correndo no exterior",
+    "codigo": "negation",
+    "frase_gerada": "Nenhum homem em uma competição está correndo no exterior"
+  },
+  {
+    "frase_base": "Alguns homens em uma competição estão correndo no exterior",
+    "codigo": "substitution",
+    "frase_gerada": "Alguns estudantes em uma competição estão correndo no exterior"
+  },
+  {
+    "frase_base": "Alguns homens em uma competição estão correndo no exterior",
+    "codigo": "insertion",
+    "frase_gerada": "Alguns homens lentos em uma competição estão correndo no exterior"
+  },
+  {
+    "frase_base": "Diversas pessoas estão sentadas em mesas pequenas em um cômodo escuro",
+    "codigo": "negation",
+    "frase_gerada": "Ninguém está sentado em mesas grandes em um cômodo iluminado"
+  },
+  {
+    "frase_base": "Diversas pessoas estão sentadas em mesas pequenas em um cômodo escuro",
+    "codigo": "substitution",
+    "frase_gerada": "Várias crianças estão sentadas em cadeiras pequenas em um aula brilhante"
+  },
+  {
+    "frase_base": "Diversas pessoas estão sentadas em mesas pequenas em um cômodo escuro",
+    "codigo": "insertion",
+    "frase_gerada": "Muitas pessoas estão sentadas nervosamente em mesas pequenas em um cômodo escuro e silencioso"
+  },
+  {
+    "frase_base": "Um homem está sentado à mesa discutindo confortavelmente",
+    "codigo": "negation",
+    "frase_gerada": "Nenhum homem não está sentado à mesa discutindo confortavelmente"
+  },
+  {
+    "frase_base": "Um homem está sentado à mesa discutindo confortavelmente",
+    "codigo": "substitution",
+    "frase_gerada": "Uma mulher está sentada à mesa discutindo tranquilamente"
+  },
+  {
+    "frase_base": "Um homem está sentado à mesa discutindo confortavelmente",
+    "codigo": "insertion",
+    "frase_gerada": "Um homem apoiado à mesa discutindo confortavelmente e rindo"
+  },
+  {
+    "frase_base": "Um ciclista de uniforme preto e vermelho está de pé em uma mountain bike",
+    "codigo": "negation",
+    "frase_gerada": "O ciclista não está de pé em uma mountain bike"
+  },
+  {
+    "frase_base": "Um ciclista de uniforme preto e vermelho está de pé em uma mountain bike",
+    "codigo": "substitution",
+    "frase_gerada": "Um patinador de uniforme azul e amarelo está sentado em uma bicicleta"
+  },
+  {
+    "frase_base": "Um ciclista de uniforme preto e vermelho está de pé em uma mountain bike",
+    "codigo": "insertion",
+    "frase_gerada": "Um ciclista habilidoso de uniforme preto e vermelho está de pé em uma mountain bike veloz"
+  },
+  {
+    "frase_base": "Quatro garotas estão fazendo ponte e brincando ao ar livre",
+    "codigo": "negation",
+    "frase_gerada": "Nenhuma garota está fazendo ponte e brincando ao ar livre"
+  },
+  {
+    "frase_base": "Quatro garotas estão fazendo ponte e brincando ao ar livre",
+    "codigo": "substitution",
+    "frase_gerada": "Dois homens estão fazendo ponte e brincando ao ar livre"
+  },
+  {
+    "frase_base": "Quatro garotas estão fazendo ponte e brincando ao ar livre",
+    "codigo": "insertion",
+    "frase_gerada": "Quatro garotas estão fazendo ponte com muito amor e brincando ao ar livre"
+  },
+  {
+    "frase_base": "Um menino molhado está pulando pela grama suja e molhada",
+    "codigo": "negation",
+    "frase_gerada": "Ninguém está pulando pela grama seca"
+  },
+  {
+    "frase_base": "Um menino molhado está pulando pela grama suja e molhada",
+    "codigo": "substitution",
+    "frase_gerada": "Uma menina seca está pulando pela grama verde"
+  },
+  {
+    "frase_base": "Um menino molhado está pulando pela grama suja e molhada",
+    "codigo": "insertion",
+    "frase_gerada": "Um menino molhado está saltitando loucamente pela grama suja e molhada"
+  },
+  {
+    "frase_base": "Os amigos estão fazendo caretas para a câmera",
+    "codigo": "negation",
+    "frase_gerada": "Nenhum amigo está fazendo caretas para a câmera"
+  },
+  {
+    "frase_base": "Os amigos estão fazendo caretas para a câmera",
+    "codigo": "substitution",
+    "frase_gerada": "As meninas estão fazendo caretas para a câmera"
+  },
+  {
+    "frase_base": "Os amigos estão fazendo caretas para a câmera",
+    "codigo": "insertion",
+    "frase_gerada": "Os amigos estão fazendo caretas divertidas e criativas para a câmera"
+  },
+  {
+    "frase_base": "Um homem fazendo snowboard está pulando pelo ar",
+    "codigo": "negation",
+    "frase_gerada": "Ninguém fazendo snowboard nunca esteve pulando pelo ar"
+  },
+  {
+    "frase_base": "Um homem fazendo snowboard está pulando pelo ar",
+    "codigo": "substitution",
+    "frase_gerada": "Uma menina fazendo skate está pulando pelo ar"
+  },
+  {
+    "frase_base": "Um homem fazendo snowboard está pulando pelo ar",
+    "codigo": "insertion",
+    "frase_gerada": "Um homem fazendo snowboard é incrívelmente habilidoso e está pulando pelo ar"
+  },
+  {
+    "frase_base": "Uma pessoa está cortando distraidamente os cogumelos com uma faca",
+    "codigo": "negation",
+    "frase_gerada": "Não uma pessoa não está cortando distraidamente os cogumelos com uma faca"
+  },
+  {
+    "frase_base": "Uma pessoa está cortando distraidamente os cogumelos com uma faca",
+    "codigo": "substitution",
+    "frase_gerada": "A outra pessoa está cortando distraidamente as abóboras com um cutelo"
+  },
+  {
+    "frase_base": "Uma pessoa está cortando distraidamente os cogumelos com uma faca",
+    "codigo": "insertion",
+    "frase_gerada": "A pessoa está cortando de forma cada vez mais distraidamente os cogumelos com uma faca muito afiada"
+  },
+  {
+    "frase_base": "Alguns cavalos estão descansando na grama verde",
+    "codigo": "negation",
+    "frase_gerada": "Nenhum cavalo está descansando na grama verde"
+  },
+  {
+    "frase_base": "Alguns cavalos estão descansando na grama verde",
+    "codigo": "substitution",
+    "frase_gerada": "Alguns jumentos estão descansando na grama verde"
+  },
+  {
+    "frase_base": "Alguns cavalos estão descansando na grama verde",
+    "codigo": "insertion",
+    "frase_gerada": "Alguns cavalos cansados estão descansando na grama verde"
+  },
+  {
+    "frase_base": "Um homem está sentado em um trem e descansando a sua mão contra o rosto",
+    "codigo": "negation",
+    "frase_gerada": "Não há homem sentado em um trem e não descansa sua mão contra o rosto"
+  },
+  {
+    "frase_base": "Um homem está sentado em um trem e descansando a sua mão contra o rosto",
+    "codigo": "substitution",
+    "frase_gerada": "Uma mulher está sentada em um trem e descansando a sua mão contra o rosto"
+  },
+  {
+    "frase_base": "Um homem está sentado em um trem e descansando a sua mão contra o rosto",
+    "codigo": "insertion",
+    "frase_gerada": "Um homem cansado está sentado em um trem veloz e descansando a sua mão cansada contra o rosto"
+  },
+  {
+    "frase_base": "Uma senhora está parada na rua e está cercada por crianças",
+    "codigo": "negation",
+    "frase_gerada": "A senhora não está parada na rua e não está cercada por crianças"
+  },
+  {
+    "frase_base": "Uma senhora está parada na rua e está cercada por crianças",
+    "codigo": "substitution",
+    "frase_gerada": "O homem está parado na praia e está cercado por adolescentes"
+  },
+  {
+    "frase_base": "Uma senhora está parada na rua e está cercada por crianças",
+    "codigo": "insertion",
+    "frase_gerada": "Uma senhora animada está parada na rua, com um sorriso no rosto, e está cercada por crianças"
+  },
+  {
+    "frase_base": "A tartaruga não está seguindo o peixe",
+    "codigo": "negation",
+    "frase_gerada": "A tartaruga está seguindo o peixe"
+  },
+  {
+    "frase_base": "A tartaruga não está seguindo o peixe",
+    "codigo": "substitution",
+    "frase_gerada": "O gato não está seguindo o peixe"
+  },
+  {
+    "frase_base": "A tartaruga não está seguindo o peixe",
+    "codigo": "insertion",
+    "frase_gerada": "A tartaruga rápida não está seguindo o peixe"
+  },
+  {
+    "frase_base": "Duas crianças pequenas estão comendo em um carrinho muito pequenino cheio de enroladinhos",
+    "codigo": "negation",
+    "frase_gerada": "As crianças não estão comendo em um carrinho..."
+  },
+  {
+    "frase_base": "Duas crianças pequenas estão comendo em um carrinho muito pequenino cheio de enroladinhos",
+    "codigo": "substitution",
+    "frase_gerada": "Três homens estão comendo em um carrinho..."
+  },
+  {
+    "frase_base": "Duas crianças pequenas estão comendo em um carrinho muito pequenino cheio de enroladinhos",
+    "codigo": "insertion",
+    "frase_gerada": "As duas crianças pequenas estão comendo rapidamente em um carrinho muito pequenino..."
+  },
+  {
+    "frase_base": "Uma batata está sendo fatiada pela mulher",
+    "codigo": "negation",
+    "frase_gerada": "A frase não está sendo fatiada pela mulher"
+  },
+  {
+    "frase_base": "Uma batata está sendo fatiada pela mulher",
+    "codigo": "substitution",
+    "frase_gerada": "A cebola está sendo fatiada pela homen"
+  },
+  {
+    "frase_base": "Uma batata está being fatiada pela mulher",
+    "codigo": "insertion",
+    "frase_gerada": "Uma batata está sendo cuidadosamente fatiada pela mulher"
+  },
+  {
+    "frase_base": "Uma criança pequena em um suéter rosa está escalando uma escada de concreto",
+    "codigo": "negation",
+    "frase_gerada": "A criança não está escalando uma escada de concreto"
+  },
+  {
+    "frase_base": "Uma criança pequena em um suéter rosa está escalando uma escada de concreto",
+    "codigo": "substitution",
+    "frase_gerada": "A garotinha em um suéter azul está escalando uma escada de ferro"
+  },
+  {
+    "frase_base": "Uma criança pequena em um suéter rosa está escalando uma escada de concreto",
+    "codigo": "insertion",
+    "frase_gerada": "A criança muito animada em um suéter rosa está rapidamente escalando uma escada de concreto"
+  },
+  {
+    "frase_base": "Uma mulher está pegando e segurando um bebê canguru",
+    "codigo": "negation",
+    "frase_gerada": "Não há uma mulher que esteja pegando e segurando um bebê canguru"
+  },
+  {
+    "frase_base": "Uma mulher está pegando e segurando um bebê canguru",
+    "codigo": "substitution",
+    "frase_gerada": "Uma homem está pegando e segurando um bebê marsupial"
+  },
+  {
+    "frase_base": "Uma mulher está pegando e segurando um bebê canguru",
+    "codigo": "insertion",
+    "frase_gerada": "Uma mulher está tranquilamente pegando e segurando um bebê canguru"
+  }
+]

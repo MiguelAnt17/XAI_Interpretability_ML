@@ -1,0 +1,242 @@
+[
+  {
+    "frase_base": "Não tem nenhum homem executando um truque em uma bicicleta verde",
+    "codigo": "negation",
+    "frase_gerada": "Tem um homem executando um truque em uma bicicleta verde"
+  },
+  {
+    "frase_base": "Não tem nenhum homem executando um truque em uma bicicleta verde",
+    "codigo": "substitution",
+    "frase_gerada": "Não tem nenhuma mulher executando um truque em uma bicicleta verde"
+  },
+  {
+    "frase_base": "Não tem nenhum homem executando um truque em uma bicicleta verde",
+    "codigo": "quantifier",
+    "frase_gerada": "Não tem muitos homens executando um truque em uma bicicleta verde"
+  },
+  {
+    "frase_base": "Uma criança está espirrando água no oceano",
+    "codigo": "negation",
+    "frase_gerada": "Uma criança não está espirrando água no oceano."
+  },
+  {
+    "frase_base": "Uma criança está espirrando água no oceano",
+    "codigo": "substitution",
+    "frase_gerada": "Uma criança está espirrando água na piscina."
+  },
+  {
+    "frase_base": "Uma criança está espirrando água no oceano",
+    "codigo": "insertion",
+    "frase_gerada": "Uma criança está espirrando água ruidosamente no oceano."
+  },
+  {
+    "frase_base": "A mulher está fazendo esqui aquático",
+    "codigo": "negation",
+    "frase_gerada": "A mulher não está fazendo esqui aquático"
+  },
+  {
+    "frase_base": "A mulher está fazendo esqui aquático",
+    "codigo": "substitution",
+    "frase_gerada": "O homem está fazendo esqui aquático"
+  },
+  {
+    "frase_base": "A mulher está fazendo esqui aquático",
+    "codigo": "insertion",
+    "frase_gerada": "A mulher está fazendo esqui aquático rapidamente"
+  },
+  {
+    "frase_base": "Uma criança pequena está sentada",
+    "codigo": "negation",
+    "frase_gerada": "Uma criança pequena não está sentada."
+  },
+  {
+    "frase_base": "Uma criança pequena está sentada",
+    "codigo": "substitution",
+    "frase_gerada": "Uma pessoa pequena está sentada."
+  },
+  {
+    "frase_base": "Uma criança pequena está sentada",
+    "codigo": "deletion",
+    "frase_gerada": "Uma criança está sentada."
+  },
+  {
+    "frase_base": "Um cachorro está perseguindo uma bola",
+    "codigo": "negation",
+    "frase_gerada": "Um cachorro não está perseguindo uma bola."
+  },
+  {
+    "frase_base": "Um cachorro está perseguindo uma bola",
+    "codigo": "substitution",
+    "frase_gerada": "Um gato está perseguindo uma bola."
+  },
+  {
+    "frase_base": "Um cachorro está perseguindo uma bola",
+    "codigo": "insertion",
+    "frase_gerada": "Um cachorro está perseguindo uma bola rapidamente."
+  },
+  {
+    "frase_base": "Um homem está restaurando azulejos com suas mãos",
+    "codigo": "negation",
+    "frase_gerada": "Um homem não está restaurando azulejos com suas mãos"
+  },
+  {
+    "frase_base": "Um homem está restaurando azulejos com suas mãos",
+    "codigo": "substitution",
+    "frase_gerada": "Um homem está restaurando quadros com suas mãos"
+  },
+  {
+    "frase_base": "Um homem está restaurando azulejos com suas mãos",
+    "codigo": "insertion",
+    "frase_gerada": "Um homem está restaurando cuidadosamente azulejos com suas mãos"
+  },
+  {
+    "frase_base": "Uma chita está perseguindo sem ar sua presa através de um campo",
+    "codigo": "negation",
+    "frase_gerada": "Uma chita não está perseguindo sem ar sua presa através de um campo"
+  },
+  {
+    "frase_base": "Uma chita está perseguindo sem ar sua presa através de um campo",
+    "codigo": "substitution",
+    "frase_gerada": "Um leão está perseguindo sem ar sua presa através de um campo"
+  },
+  {
+    "frase_base": "Uma chita está perseguindo sem ar sua presa através de um campo",
+    "codigo": "insertion",
+    "frase_gerada": "Uma chita está perseguindo furiosamente sem ar sua presa através de um campo"
+  },
+  {
+    "frase_base": "Dois cachorros estão olhando para uma bancada de cozinha",
+    "codigo": "negation",
+    "frase_gerada": "Dois cachorros não estão olhando para uma bancada de cozinha"
+  },
+  {
+    "frase_base": "Dois cachorros estão olhando para uma bancada de cozinha",
+    "codigo": "substitution",
+    "frase_gerada": "Dois gatos estão olhando para uma bancada de cozinha"
+  },
+  {
+    "frase_base": "Dois cachorros estão olhando para uma bancada de cozinha",
+    "codigo": "quantifier",
+    "frase_gerada": "Um cachorro está olhando para uma bancada de cozinha"
+  },
+  {
+    "frase_base": "Um grupo de crianças em uniformes está parado em um portão e uma está beijando a mãe",
+    "codigo": "negation",
+    "frase_gerada": "Um grupo de crianças em uniformes está parado em um portão e uma não está beijando a mãe"
+  },
+  {
+    "frase_base": "Um grupo de crianças em uniformes está parado em um portão e uma está beijando a mãe",
+    "codigo": "substitution",
+    "frase_gerada": "Um grupo de crianças em uniformes está parado em um portão e uma está beijando o pai"
+  },
+  {
+    "frase_base": "Um grupo de crianças em uniformes está parado em um portão e uma está beijando a mãe",
+    "codigo": "insertion",
+    "frase_gerada": "Um grupo de crianças em uniformes está parado em um portão e uma está beijando a mãe carinhosamente"
+  },
+  {
+    "frase_base": "Três homens estão pulando de um muro",
+    "codigo": "negation",
+    "frase_gerada": "Três homens não estão pulando de um muro."
+  },
+  {
+    "frase_base": "Três homens estão pulando de um muro",
+    "codigo": "substitution",
+    "frase_gerada": "Três homens estão pulando de uma ponte."
+  },
+  {
+    "frase_base": "Três homens estão pulando de um muro",
+    "codigo": "quantifier",
+    "frase_gerada": "Cinco homens estão pulando de um muro."
+  },
+  {
+    "frase_base": "A mulher está cozinhando cuidadosamente alguma coisa",
+    "codigo": "negation",
+    "frase_gerada": "A mulher não está cozinhando cuidadosamente alguma coisa."
+  },
+  {
+    "frase_base": "A mulher está cozinhando cuidadosamente alguma coisa",
+    "codigo": "substitution",
+    "frase_gerada": "O homem está cozinhando cuidadosamente alguma coisa."
+  },
+  {
+    "frase_base": "A mulher está cozinhando cuidadosamente alguma coisa",
+    "codigo": "insertion",
+    "frase_gerada": "A mulher está cozinhando cuidadosamente um prato elaborado."
+  },
+  {
+    "frase_base": "O cachorro de aparência desnutrida está de pé nas patas traseiras e está se preparando para pular",
+    "codigo": "negation",
+    "frase_gerada": "O cachorro de aparência desnutrida está de pé nas patas traseiras e não está se preparando para pular"
+  },
+  {
+    "frase_base": "O cachorro de aparência desnutrida está de pé nas patas traseiras e está se preparando para pular",
+    "codigo": "substitution",
+    "frase_gerada": "O gato de aparência desnutrida está de pé nas patas traseiras e está se preparando para pular"
+  },
+  {
+    "frase_base": "O cachorro de aparência desnutrida está de pé nas patas traseiras e está se preparando para pular",
+    "codigo": "insertion",
+    "frase_gerada": "O cachorro de aparência desnutrida está de pé nas patas traseiras e está lentamente se preparando para pular"
+  },
+  {
+    "frase_base": "Um homem de chapéu branco está tocando violão no palco",
+    "codigo": "negation",
+    "frase_gerada": "Um homem de chapéu branco não está tocando violão no palco"
+  },
+  {
+    "frase_base": "Um homem de chapéu branco está tocando violão no palco",
+    "codigo": "substitution",
+    "frase_gerada": "Um homem de chapéu branco está tocando piano no palco"
+  },
+  {
+    "frase_base": "Um homem de chapéu branco está tocando violão no palco",
+    "codigo": "insertion",
+    "frase_gerada": "Um homem de chapéu branco está tocando violão habilidosamente no palco"
+  },
+  {
+    "frase_base": "A menina de capacete está empoleirada em uma bicicleta",
+    "codigo": "negation",
+    "frase_gerada": "A menina de capacete não está empoleirada em uma bicicleta"
+  },
+  {
+    "frase_base": "A menina de capacete está empoleirada em uma bicicleta",
+    "codigo": "substitution",
+    "frase_gerada": "A menina de capacete está empoleirada em uma motocicleta"
+  },
+  {
+    "frase_base": "A menina de capacete está empoleirada em uma bicicleta",
+    "codigo": "insertion",
+    "frase_gerada": "A menina de capacete está cuidadosamente empoleirada em uma bicicleta"
+  },
+  {
+    "frase_base": "Um jovem casal está deitado numa cama junto",
+    "codigo": "negation",
+    "frase_gerada": "Um jovem casal não está deitado numa cama junto"
+  },
+  {
+    "frase_base": "Um jovem casal está deitado numa cama junto",
+    "codigo": "substitution",
+    "frase_gerada": "Um jovem casal está deitado num sofá junto"
+  },
+  {
+    "frase_base": "Um jovem casal está deitado numa cama junto",
+    "codigo": "insertion",
+    "frase_gerada": "Um jovem casal está desconfortavelmente deitado numa cama junto"
+  },
+  {
+    "frase_base": "Um cachorro, que tem pelagem preta, está correndo na grama e sua língua está saindo para fora da boca",
+    "codigo": "negation",
+    "frase_gerada": "Um cachorro, que tem pelagem preta, não está correndo na grama e sua língua está saindo para fora da boca."
+  },
+  {
+    "frase_base": "Um cachorro, que tem pelagem preta, está correndo na grama e sua língua está saindo para fora da boca",
+    "codigo": "substitution",
+    "frase_gerada": "Um cachorro, que tem pelagem branca, está correndo na grama e sua língua está saindo para fora da boca."
+  },
+  {
+    "frase_base": "Um cachorro, que tem pelagem preta, está correndo na grama e sua língua está saindo para fora da boca",
+    "codigo": "insertion",
+    "frase_gerada": "Um cachorro, que tem pelagem preta, está correndo alegremente na grama e sua língua está saindo para fora da boca."
+  }
+]

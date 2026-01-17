@@ -1,0 +1,22 @@
+N_Samples,Avg. Jaccard Index (Stability),Top_Features_Sample,Model
+500,1.0,"{np.str_('quando'), np.str_('comprar'), np.str_('valer'), np.str_('bem'), np.str_('pena')}",LogisticRegression
+1000,0.9333333333333333,"{np.str_('quando'), np.str_('comprar'), np.str_('apresentar'), np.str_('valer'), np.str_('pena')}",LogisticRegression
+2000,1.0,"{np.str_('quando'), np.str_('comprar'), np.str_('valer'), np.str_('bem'), np.str_('pena')}",LogisticRegression
+500,0.7999999999999998,"{np.str_('quando'), np.str_('comprar'), np.str_('apresentar'), np.str_('valer'), np.str_('pena')}",MultinomialNB
+1000,0.8814814814814813,"{np.str_('comprar'), np.str_('apresentar'), np.str_('valer'), np.str_('bem'), np.str_('pena')}",MultinomialNB
+2000,0.8148148148148147,"{np.str_('comprar'), np.str_('apresentar'), np.str_('valer'), np.str_('bem'), np.str_('pena')}",MultinomialNB
+500,0.7322751322751322,"{np.str_('comprar'), np.str_('apresentar'), np.str_('valer'), np.str_('bem'), np.str_('pena')}",SVM
+1000,1.0,"{np.str_('rua'), np.str_('comprar'), np.str_('apresentar'), np.str_('valer'), np.str_('pena')}",SVM
+2000,1.0,"{np.str_('rua'), np.str_('comprar'), np.str_('apresentar'), np.str_('valer'), np.str_('pena')}",SVM
+500,0.32583774250440917,"{np.str_('comprar'), np.str_('receita'), np.str_('apresentar'), np.str_('bem'), np.str_('pena')}",KNN
+1000,0.5835978835978837,"{np.str_('comprar'), np.str_('apresentar'), np.str_('bem'), np.str_('colo'), np.str_('pena')}",KNN
+2000,0.764021164021164,"{np.str_('comprar'), np.str_('apresentar'), np.str_('pedir'), np.str_('ônibus'), np.str_('pena')}",KNN
+500,0.8148148148148147,"{np.str_('comprar'), np.str_('pedir'), np.str_('valer'), np.str_('bem'), np.str_('pena')}",RandomForest
+1000,0.8814814814814814,"{np.str_('quando'), np.str_('comprar'), np.str_('valer'), np.str_('bem'), np.str_('pena')}",RandomForest
+2000,0.8444444444444441,"{np.str_('comprar'), np.str_('pedir'), np.str_('valer'), np.str_('bem'), np.str_('pena')}",RandomForest
+500,0.6105820105820104,"{np.str_('rua'), np.str_('comprar'), np.str_('pedir'), np.str_('valer'), np.str_('pena')}",GradientBoosting
+1000,0.6380952380952382,"{np.str_('comprar'), np.str_('apresentar'), np.str_('valer'), np.str_('bem'), np.str_('pena')}",GradientBoosting
+2000,0.7185185185185186,"{np.str_('comprar'), np.str_('pedir'), np.str_('valer'), np.str_('bem'), np.str_('pena')}",GradientBoosting
+500,0.7851851851851849,"{np.str_('quando'), np.str_('comprar'), np.str_('pedir'), np.str_('valer'), np.str_('pena')}",MLP
+1000,1.0,"{np.str_('quando'), np.str_('comprar'), np.str_('pedir'), np.str_('valer'), np.str_('pena')}",MLP
+2000,1.0,"{np.str_('quando'), np.str_('comprar'), np.str_('pedir'), np.str_('valer'), np.str_('pena')}",MLP

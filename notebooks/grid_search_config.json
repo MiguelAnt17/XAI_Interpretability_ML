@@ -1,0 +1,10 @@
+{
+    "model_name": "unicamp-dl/ptt5-base-portuguese-vocab",
+    "hyperparameters": {
+        "learning_rate": [1e-4, 2e-4, 5e-4],
+        "batch_size": [8, 32, 64],
+        "num_train_epochs": [3, 5],
+        "weight_decay": [0.01, 0.1]
+    },
+    "control_codes": ["negation", "substitution", "quantifier", "insertion", "deletion"]
+}
